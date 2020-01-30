@@ -1,2 +1,2 @@
 # POO
-Programación Orientada a Objetos
+NuestroPrimerRepositorio
