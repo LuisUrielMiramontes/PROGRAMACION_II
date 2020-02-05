@@ -1,0 +1,21 @@
+C:\Users\Melissa Flores\Documents\Visual Studio 2015\Projects\Miprimersolucion\Miproyectowindowsforms\bin\Debug\Miproyectowindowsforms.exe.config
+C:\Users\Melissa Flores\Documents\Visual Studio 2015\Projects\Miprimersolucion\Miproyectowindowsforms\bin\Debug\Miproyectowindowsforms.exe
+C:\Users\Melissa Flores\Documents\Visual Studio 2015\Projects\Miprimersolucion\Miproyectowindowsforms\bin\Debug\Miproyectowindowsforms.pdb
+C:\Users\Melissa Flores\Documents\Visual Studio 2015\Projects\Miprimersolucion\Miproyectowindowsforms\obj\Debug\Miproyectowindowsforms.csprojResolveAssemblyReference.cache
+C:\Users\Melissa Flores\Documents\Visual Studio 2015\Projects\Miprimersolucion\Miproyectowindowsforms\obj\Debug\Miproyectowindowsforms.Form1.resources
+C:\Users\Melissa Flores\Documents\Visual Studio 2015\Projects\Miprimersolucion\Miproyectowindowsforms\obj\Debug\Miproyectowindowsforms.Properties.Resources.resources
+C:\Users\Melissa Flores\Documents\Visual Studio 2015\Projects\Miprimersolucion\Miproyectowindowsforms\obj\Debug\Miproyectowindowsforms.csproj.GenerateResource.Cache
+C:\Users\Melissa Flores\Documents\Visual Studio 2015\Projects\Miprimersolucion\Miproyectowindowsforms\obj\Debug\Miproyectowindowsforms.exe
+C:\Users\Melissa Flores\Documents\Visual Studio 2015\Projects\Miprimersolucion\Miproyectowindowsforms\obj\Debug\Miproyectowindowsforms.pdb
+F:\Miprimersolucion\Miproyectowindowsforms\bin\Debug\Miproyectowindowsforms.exe.config
+F:\Miprimersolucion\Miproyectowindowsforms\obj\Debug\Miproyectowindowsforms.exe
+F:\Miprimersolucion\Miproyectowindowsforms\obj\Debug\Miproyectowindowsforms.pdb
+F:\Miprimersolucion\Miproyectowindowsforms\bin\Debug\Miproyectowindowsforms.exe
+F:\Miprimersolucion\Miproyectowindowsforms\bin\Debug\Miproyectowindowsforms.pdb
+F:\Miprimersolucion\Miproyectowindowsforms\obj\Debug\Miproyectowindowsforms.csprojResolveAssemblyReference.cache
+F:\Miprimersolucion\Miproyectowindowsforms\obj\Debug\Miproyectowindowsforms.Form1.resources
+F:\Miprimersolucion\Miproyectowindowsforms\obj\Debug\Miproyectowindowsforms.Properties.Resources.resources
+F:\Miprimersolucion\Miproyectowindowsforms\obj\Debug\Miproyectowindowsforms.csproj.GenerateResource.Cache
+C:\Users\icebr\Desktop\Miprimersolucion\Miproyectowindowsforms\bin\Debug\Miproyectowindowsforms.exe.config
+C:\Users\icebr\Desktop\Miprimersolucion\Miproyectowindowsforms\obj\Debug\Miproyectowindowsforms.exe
+C:\Users\icebr\Desktop\Miprimersolucion\Miproyectowindowsforms\obj\Debug\Miproyectowindowsforms.pdb

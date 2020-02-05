@@ -12,12 +12,15 @@ namespace MiPrimerProyectoConsola
         {
             int a, b, c;
 
-            Console.Write("Introduce un número: ");
+            Console.Write("Introduce un numero: ");
             a = Convert.ToInt32 (Console.ReadLine());
-            Console.Write("Introduce otro número: ");
-            b = Convert.ToInt32(Console.ReadLine());
+
+            Console.Write("Introduce un numero: ");
+            b = Convert.ToInt32 (Console.ReadLine());
+
             c = a + b;
-            Console.Write("La suma de los números ingresados  es de: "+c);
+
+            Console.WriteLine("La suma de los nummeros introducidos es: " + c);
             Console.ReadKey();
         }
     }
