@@ -19,3 +19,12 @@ F:\Miprimersolucion\Miproyectowindowsforms\obj\Debug\Miproyectowindowsforms.cspr
 C:\Users\icebr\Desktop\Miprimersolucion\Miproyectowindowsforms\bin\Debug\Miproyectowindowsforms.exe.config
 C:\Users\icebr\Desktop\Miprimersolucion\Miproyectowindowsforms\obj\Debug\Miproyectowindowsforms.exe
 C:\Users\icebr\Desktop\Miprimersolucion\Miproyectowindowsforms\obj\Debug\Miproyectowindowsforms.pdb
+C:\Users\icebr\Documents\POO\Miprimersolucion\Miproyectowindowsforms\bin\Debug\Miproyectowindowsforms.exe.config
+C:\Users\icebr\Documents\POO\Miprimersolucion\Miproyectowindowsforms\obj\Debug\Miproyectowindowsforms.exe
+C:\Users\icebr\Documents\POO\Miprimersolucion\Miproyectowindowsforms\obj\Debug\Miproyectowindowsforms.pdb
+C:\Users\icebr\Documents\POO\Miprimersolucion\Miproyectowindowsforms\bin\Debug\Miproyectowindowsforms.exe
+C:\Users\icebr\Documents\POO\Miprimersolucion\Miproyectowindowsforms\bin\Debug\Miproyectowindowsforms.pdb
+C:\Users\icebr\Documents\POO\Miprimersolucion\Miproyectowindowsforms\obj\Debug\Miproyectowindowsforms.csprojResolveAssemblyReference.cache
+C:\Users\icebr\Documents\POO\Miprimersolucion\Miproyectowindowsforms\obj\Debug\Miproyectowindowsforms.Form1.resources
+C:\Users\icebr\Documents\POO\Miprimersolucion\Miproyectowindowsforms\obj\Debug\Miproyectowindowsforms.Properties.Resources.resources
+C:\Users\icebr\Documents\POO\Miprimersolucion\Miproyectowindowsforms\obj\Debug\Miproyectowindowsforms.csproj.GenerateResource.Cache

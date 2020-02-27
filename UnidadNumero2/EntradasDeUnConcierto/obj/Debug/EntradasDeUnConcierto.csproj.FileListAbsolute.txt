@@ -1,0 +1,9 @@
+c:\users\icebr\documents\visual studio 2015\Projects\AsistenteConcierto\EntradasDeUnConcierto\bin\Debug\EntradasDeUnConcierto.exe.config
+c:\users\icebr\documents\visual studio 2015\Projects\AsistenteConcierto\EntradasDeUnConcierto\bin\Debug\EntradasDeUnConcierto.exe
+c:\users\icebr\documents\visual studio 2015\Projects\AsistenteConcierto\EntradasDeUnConcierto\bin\Debug\EntradasDeUnConcierto.pdb
+c:\users\icebr\documents\visual studio 2015\Projects\AsistenteConcierto\EntradasDeUnConcierto\obj\Debug\EntradasDeUnConcierto.Form1.resources
+c:\users\icebr\documents\visual studio 2015\Projects\AsistenteConcierto\EntradasDeUnConcierto\obj\Debug\EntradasDeUnConcierto.Properties.Resources.resources
+c:\users\icebr\documents\visual studio 2015\Projects\AsistenteConcierto\EntradasDeUnConcierto\obj\Debug\EntradasDeUnConcierto.csproj.GenerateResource.Cache
+c:\users\icebr\documents\visual studio 2015\Projects\AsistenteConcierto\EntradasDeUnConcierto\obj\Debug\EntradasDeUnConcierto.exe
+c:\users\icebr\documents\visual studio 2015\Projects\AsistenteConcierto\EntradasDeUnConcierto\obj\Debug\EntradasDeUnConcierto.pdb
+c:\users\icebr\documents\visual studio 2015\Projects\AsistenteConcierto\EntradasDeUnConcierto\obj\Debug\EntradasDeUnConcierto.csprojResolveAssemblyReference.cache

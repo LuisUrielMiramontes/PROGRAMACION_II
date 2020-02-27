@@ -1,0 +1,8 @@
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\UnidadNumero2\MayorDeEdad\bin\Debug\MayorDeEdad.exe.config
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\UnidadNumero2\MayorDeEdad\obj\Debug\MayorDeEdad.exe
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\UnidadNumero2\MayorDeEdad\obj\Debug\MayorDeEdad.pdb
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\UnidadNumero2\MayorDeEdad\bin\Debug\MayorDeEdad.exe
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\UnidadNumero2\MayorDeEdad\bin\Debug\MayorDeEdad.pdb
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\UnidadNumero2\MayorDeEdad\obj\Debug\MayorDeEdad.Form1.resources
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\UnidadNumero2\MayorDeEdad\obj\Debug\MayorDeEdad.Properties.Resources.resources
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\UnidadNumero2\MayorDeEdad\obj\Debug\4. MayorDeEdad.csproj.GenerateResource.Cache

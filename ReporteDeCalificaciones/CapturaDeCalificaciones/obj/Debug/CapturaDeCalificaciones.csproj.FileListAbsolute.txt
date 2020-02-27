@@ -1,0 +1,18 @@
+c:\users\icebr\documents\visual studio 2015\Projects\ReporteDeCalificaciones\CapturaDeCalificaciones\bin\Debug\CapturaDeCalificaciones.exe.config
+c:\users\icebr\documents\visual studio 2015\Projects\ReporteDeCalificaciones\CapturaDeCalificaciones\bin\Debug\CapturaDeCalificaciones.exe
+c:\users\icebr\documents\visual studio 2015\Projects\ReporteDeCalificaciones\CapturaDeCalificaciones\bin\Debug\CapturaDeCalificaciones.pdb
+c:\users\icebr\documents\visual studio 2015\Projects\ReporteDeCalificaciones\CapturaDeCalificaciones\obj\Debug\CapturaDeCalificaciones.csprojResolveAssemblyReference.cache
+c:\users\icebr\documents\visual studio 2015\Projects\ReporteDeCalificaciones\CapturaDeCalificaciones\obj\Debug\CapturaDeCalificaciones.Form1.resources
+c:\users\icebr\documents\visual studio 2015\Projects\ReporteDeCalificaciones\CapturaDeCalificaciones\obj\Debug\CapturaDeCalificaciones.Properties.Resources.resources
+c:\users\icebr\documents\visual studio 2015\Projects\ReporteDeCalificaciones\CapturaDeCalificaciones\obj\Debug\CapturaDeCalificaciones.csproj.GenerateResource.Cache
+c:\users\icebr\documents\visual studio 2015\Projects\ReporteDeCalificaciones\CapturaDeCalificaciones\obj\Debug\CapturaDeCalificaciones.exe
+c:\users\icebr\documents\visual studio 2015\Projects\ReporteDeCalificaciones\CapturaDeCalificaciones\obj\Debug\CapturaDeCalificaciones.pdb
+C:\Users\icebr\Documents\POO\ReporteDeCalificaciones\CapturaDeCalificaciones\bin\Debug\CapturaDeCalificaciones.exe.config
+C:\Users\icebr\Documents\POO\ReporteDeCalificaciones\CapturaDeCalificaciones\obj\Debug\CapturaDeCalificaciones.exe
+C:\Users\icebr\Documents\POO\ReporteDeCalificaciones\CapturaDeCalificaciones\obj\Debug\CapturaDeCalificaciones.pdb
+C:\Users\icebr\Documents\POO\ReporteDeCalificaciones\CapturaDeCalificaciones\bin\Debug\CapturaDeCalificaciones.exe
+C:\Users\icebr\Documents\POO\ReporteDeCalificaciones\CapturaDeCalificaciones\bin\Debug\CapturaDeCalificaciones.pdb
+C:\Users\icebr\Documents\POO\ReporteDeCalificaciones\CapturaDeCalificaciones\obj\Debug\CapturaDeCalificaciones.csprojResolveAssemblyReference.cache
+C:\Users\icebr\Documents\POO\ReporteDeCalificaciones\CapturaDeCalificaciones\obj\Debug\CapturaDeCalificaciones.Form1.resources
+C:\Users\icebr\Documents\POO\ReporteDeCalificaciones\CapturaDeCalificaciones\obj\Debug\CapturaDeCalificaciones.Properties.Resources.resources
+C:\Users\icebr\Documents\POO\ReporteDeCalificaciones\CapturaDeCalificaciones\obj\Debug\CapturaDeCalificaciones.csproj.GenerateResource.Cache

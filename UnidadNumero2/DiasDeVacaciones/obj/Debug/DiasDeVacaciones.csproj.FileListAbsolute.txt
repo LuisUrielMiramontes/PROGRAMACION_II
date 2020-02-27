@@ -1,0 +1,9 @@
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\AsistenteConcierto\DiasDeVacaciones\bin\Debug\DiasDeVacaciones.exe.config
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\AsistenteConcierto\DiasDeVacaciones\bin\Debug\DiasDeVacaciones.exe
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\AsistenteConcierto\DiasDeVacaciones\bin\Debug\DiasDeVacaciones.pdb
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\AsistenteConcierto\DiasDeVacaciones\obj\Debug\DiasDeVacaciones.csprojResolveAssemblyReference.cache
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\AsistenteConcierto\DiasDeVacaciones\obj\Debug\DiasDeVacaciones.Form1.resources
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\AsistenteConcierto\DiasDeVacaciones\obj\Debug\DiasDeVacaciones.Properties.Resources.resources
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\AsistenteConcierto\DiasDeVacaciones\obj\Debug\DiasDeVacaciones.csproj.GenerateResource.Cache
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\AsistenteConcierto\DiasDeVacaciones\obj\Debug\DiasDeVacaciones.exe
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\AsistenteConcierto\DiasDeVacaciones\obj\Debug\DiasDeVacaciones.pdb

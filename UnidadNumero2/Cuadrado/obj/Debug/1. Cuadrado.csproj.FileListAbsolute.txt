@@ -1,0 +1,9 @@
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\AsistenteConcierto\Cuadrado\bin\Debug\Cuadrado.exe.config
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\AsistenteConcierto\Cuadrado\obj\Debug\Cuadrado.exe
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\AsistenteConcierto\Cuadrado\obj\Debug\Cuadrado.pdb
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\UnidadNumero2\Cuadrado\bin\Debug\Cuadrado.exe.config
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\UnidadNumero2\Cuadrado\obj\Debug\Cuadrado.exe
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\UnidadNumero2\Cuadrado\obj\Debug\Cuadrado.pdb
+C:\Users\icebr\Documents\POO\UnidadNumero2\Cuadrado\bin\Debug\Cuadrado.exe.config
+C:\Users\icebr\Documents\POO\UnidadNumero2\Cuadrado\obj\Debug\Cuadrado.exe
+C:\Users\icebr\Documents\POO\UnidadNumero2\Cuadrado\obj\Debug\Cuadrado.pdb

@@ -1,0 +1,8 @@
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\AsistenteConcierto\CasetaDeAutopista\bin\Debug\CasetaDeAutopista.exe.config
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\AsistenteConcierto\CasetaDeAutopista\bin\Debug\CasetaDeAutopista.exe
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\AsistenteConcierto\CasetaDeAutopista\bin\Debug\CasetaDeAutopista.pdb
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\AsistenteConcierto\CasetaDeAutopista\obj\Debug\CasetaDeAutopista.Form1.resources
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\AsistenteConcierto\CasetaDeAutopista\obj\Debug\CasetaDeAutopista.Properties.Resources.resources
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\AsistenteConcierto\CasetaDeAutopista\obj\Debug\CasetaDeAutopista.csproj.GenerateResource.Cache
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\AsistenteConcierto\CasetaDeAutopista\obj\Debug\CasetaDeAutopista.exe
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\AsistenteConcierto\CasetaDeAutopista\obj\Debug\CasetaDeAutopista.pdb

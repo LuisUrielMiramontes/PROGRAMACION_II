@@ -1,0 +1,9 @@
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\AsistenteConcierto\MayorDeEdad\bin\Debug\MayorDeEdad.exe.config
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\AsistenteConcierto\MayorDeEdad\bin\Debug\MayorDeEdad.exe
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\AsistenteConcierto\MayorDeEdad\bin\Debug\MayorDeEdad.pdb
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\AsistenteConcierto\MayorDeEdad\obj\Debug\MayorDeEdad.Form1.resources
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\AsistenteConcierto\MayorDeEdad\obj\Debug\MayorDeEdad.Properties.Resources.resources
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\AsistenteConcierto\MayorDeEdad\obj\Debug\MayorDeEdad.csproj.GenerateResource.Cache
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\AsistenteConcierto\MayorDeEdad\obj\Debug\MayorDeEdad.exe
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\AsistenteConcierto\MayorDeEdad\obj\Debug\MayorDeEdad.pdb
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\AsistenteConcierto\MayorDeEdad\obj\Debug\MayorDeEdad.csprojResolveAssemblyReference.cache
