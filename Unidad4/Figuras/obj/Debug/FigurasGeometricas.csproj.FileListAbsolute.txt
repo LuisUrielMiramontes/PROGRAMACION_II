@@ -1,0 +1,9 @@
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad4\Figuras\bin\Debug\Figuras.exe.config
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad4\Figuras\bin\Debug\Figuras.exe
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad4\Figuras\bin\Debug\Figuras.pdb
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad4\Figuras\obj\Debug\FigurasGeometricas.csprojResolveAssemblyReference.cache
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad4\Figuras\obj\Debug\Figuras.Form1.resources
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad4\Figuras\obj\Debug\Figuras.Properties.Resources.resources
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad4\Figuras\obj\Debug\FigurasGeometricas.csproj.GenerateResource.Cache
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad4\Figuras\obj\Debug\Figuras.exe
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad4\Figuras\obj\Debug\Figuras.pdb
