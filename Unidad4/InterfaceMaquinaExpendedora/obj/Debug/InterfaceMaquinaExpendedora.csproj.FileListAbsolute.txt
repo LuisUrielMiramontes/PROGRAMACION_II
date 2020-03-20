@@ -1,0 +1,9 @@
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad4\InterfaceMaquinaExpendedora\bin\Debug\InterfaceMaquinaExpendedora.exe.config
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad4\InterfaceMaquinaExpendedora\bin\Debug\InterfaceMaquinaExpendedora.exe
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad4\InterfaceMaquinaExpendedora\bin\Debug\InterfaceMaquinaExpendedora.pdb
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad4\InterfaceMaquinaExpendedora\obj\Debug\InterfaceMaquinaExpendedora.csprojResolveAssemblyReference.cache
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad4\InterfaceMaquinaExpendedora\obj\Debug\InterfaceMaquinaExpendedora.Form1.resources
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad4\InterfaceMaquinaExpendedora\obj\Debug\InterfaceMaquinaExpendedora.Properties.Resources.resources
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad4\InterfaceMaquinaExpendedora\obj\Debug\InterfaceMaquinaExpendedora.csproj.GenerateResource.Cache
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad4\InterfaceMaquinaExpendedora\obj\Debug\InterfaceMaquinaExpendedora.exe
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad4\InterfaceMaquinaExpendedora\obj\Debug\InterfaceMaquinaExpendedora.pdb
