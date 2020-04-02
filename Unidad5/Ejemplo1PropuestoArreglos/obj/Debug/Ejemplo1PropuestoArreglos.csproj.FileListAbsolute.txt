@@ -1,0 +1,6 @@
+c:\users\icebr\documents\visual studio 2015\Projects\Unidad5\Ejemplo1PropuestoArreglos\bin\Debug\Ejemplo1PropuestoArreglos.exe.config
+c:\users\icebr\documents\visual studio 2015\Projects\Unidad5\Ejemplo1PropuestoArreglos\bin\Debug\Ejemplo1PropuestoArreglos.exe
+c:\users\icebr\documents\visual studio 2015\Projects\Unidad5\Ejemplo1PropuestoArreglos\bin\Debug\Ejemplo1PropuestoArreglos.pdb
+c:\users\icebr\documents\visual studio 2015\Projects\Unidad5\Ejemplo1PropuestoArreglos\obj\Debug\Ejemplo1PropuestoArreglos.csprojResolveAssemblyReference.cache
+c:\users\icebr\documents\visual studio 2015\Projects\Unidad5\Ejemplo1PropuestoArreglos\obj\Debug\Ejemplo1PropuestoArreglos.exe
+c:\users\icebr\documents\visual studio 2015\Projects\Unidad5\Ejemplo1PropuestoArreglos\obj\Debug\Ejemplo1PropuestoArreglos.pdb
