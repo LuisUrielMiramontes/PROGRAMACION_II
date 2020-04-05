@@ -1,0 +1,9 @@
+C:\Users\icebr\documents\visual studio 2015\Projects\Unidad5\EjercicioArrayListDeUnaClase\bin\Debug\EjercicioArrayListDeUnaClase.exe.config
+C:\Users\icebr\documents\visual studio 2015\Projects\Unidad5\EjercicioArrayListDeUnaClase\bin\Debug\EjercicioArrayListDeUnaClase.exe
+C:\Users\icebr\documents\visual studio 2015\Projects\Unidad5\EjercicioArrayListDeUnaClase\bin\Debug\EjercicioArrayListDeUnaClase.pdb
+C:\Users\icebr\documents\visual studio 2015\Projects\Unidad5\EjercicioArrayListDeUnaClase\obj\Debug\EjercicioArrayListDeUnaClase.csprojResolveAssemblyReference.cache
+C:\Users\icebr\documents\visual studio 2015\Projects\Unidad5\EjercicioArrayListDeUnaClase\obj\Debug\EjercicioArrayListDeUnaClase.Form1.resources
+C:\Users\icebr\documents\visual studio 2015\Projects\Unidad5\EjercicioArrayListDeUnaClase\obj\Debug\EjercicioArrayListDeUnaClase.Properties.Resources.resources
+C:\Users\icebr\documents\visual studio 2015\Projects\Unidad5\EjercicioArrayListDeUnaClase\obj\Debug\EjercicioArrayListDeUnaClase.csproj.GenerateResource.Cache
+C:\Users\icebr\documents\visual studio 2015\Projects\Unidad5\EjercicioArrayListDeUnaClase\obj\Debug\EjercicioArrayListDeUnaClase.exe
+C:\Users\icebr\documents\visual studio 2015\Projects\Unidad5\EjercicioArrayListDeUnaClase\obj\Debug\EjercicioArrayListDeUnaClase.pdb

@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo1PropuestoArreglos", "Ejemplo1PropuestoArreglos\Ejemplo1PropuestoArreglos.csproj", "{55E6D632-5541-4FA2-84CE-23EFF4415DAD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioArrayListDeUnaClase", "EjercicioArrayListDeUnaClase\EjercicioArrayListDeUnaClase.csproj", "{EB8DBC5A-53DF-43BB-B04B-E4A671F16F50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{55E6D632-5541-4FA2-84CE-23EFF4415DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55E6D632-5541-4FA2-84CE-23EFF4415DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55E6D632-5541-4FA2-84CE-23EFF4415DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB8DBC5A-53DF-43BB-B04B-E4A671F16F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB8DBC5A-53DF-43BB-B04B-E4A671F16F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB8DBC5A-53DF-43BB-B04B-E4A671F16F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB8DBC5A-53DF-43BB-B04B-E4A671F16F50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
