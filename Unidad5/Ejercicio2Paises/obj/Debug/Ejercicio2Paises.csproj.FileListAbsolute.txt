@@ -1,0 +1,6 @@
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad5\Ejercicio2Paises\bin\Debug\Ejercicio2Paises.exe.config
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad5\Ejercicio2Paises\bin\Debug\Ejercicio2Paises.exe
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad5\Ejercicio2Paises\bin\Debug\Ejercicio2Paises.pdb
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad5\Ejercicio2Paises\obj\Debug\Ejercicio2Paises.exe
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad5\Ejercicio2Paises\obj\Debug\Ejercicio2Paises.pdb
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad5\Ejercicio2Paises\obj\Debug\Ejercicio2Paises.csprojResolveAssemblyReference.cache
