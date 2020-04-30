@@ -1,0 +1,10 @@
+C:\Users\icebr\documents\visual studio 2015\Projects\Unidad5\Bidimensional2\bin\Debug\Bidimensional2.exe.config
+C:\Users\icebr\documents\visual studio 2015\Projects\Unidad5\Bidimensional2\bin\Debug\Bidimensional2.exe
+C:\Users\icebr\documents\visual studio 2015\Projects\Unidad5\Bidimensional2\bin\Debug\Bidimensional2.pdb
+C:\Users\icebr\documents\visual studio 2015\Projects\Unidad5\Bidimensional2\obj\Debug\Bidimensional2.csprojResolveAssemblyReference.cache
+C:\Users\icebr\documents\visual studio 2015\Projects\Unidad5\Bidimensional2\obj\Debug\Bidimensional2.Properties.Resources.resources
+C:\Users\icebr\documents\visual studio 2015\Projects\Unidad5\Bidimensional2\obj\Debug\Bidimensional2.csproj.GenerateResource.Cache
+C:\Users\icebr\documents\visual studio 2015\Projects\Unidad5\Bidimensional2\obj\Debug\Bidimensional2.exe
+C:\Users\icebr\documents\visual studio 2015\Projects\Unidad5\Bidimensional2\obj\Debug\Bidimensional2.pdb
+C:\Users\icebr\documents\visual studio 2015\Projects\Unidad5\Bidimensional2\obj\Debug\Bidimensional2.Form1.resources
+C:\Users\icebr\documents\visual studio 2015\Projects\Unidad5\Bidimensional2\obj\Debug\Bidimensional2.Operaciones.resources

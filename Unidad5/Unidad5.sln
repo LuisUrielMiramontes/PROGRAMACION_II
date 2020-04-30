@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscuelaDatos2", "EscuelaDat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscuelaDatos1", "EscuelaDatos1\EscuelaDatos1.csproj", "{835D806C-81E1-4531-BFC1-EEB8FA85DEA9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bidimensional1", "Bidimensional1\Bidimensional1.csproj", "{7D769E20-D95C-4B5A-A88F-398F99D11C99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bidimensional2", "Bidimensional2\Bidimensional2.csproj", "{8C4AF35D-25EF-4392-94CF-C76433C4FEB2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{835D806C-81E1-4531-BFC1-EEB8FA85DEA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{835D806C-81E1-4531-BFC1-EEB8FA85DEA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{835D806C-81E1-4531-BFC1-EEB8FA85DEA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D769E20-D95C-4B5A-A88F-398F99D11C99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D769E20-D95C-4B5A-A88F-398F99D11C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D769E20-D95C-4B5A-A88F-398F99D11C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D769E20-D95C-4B5A-A88F-398F99D11C99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C4AF35D-25EF-4392-94CF-C76433C4FEB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C4AF35D-25EF-4392-94CF-C76433C4FEB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C4AF35D-25EF-4392-94CF-C76433C4FEB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C4AF35D-25EF-4392-94CF-C76433C4FEB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
