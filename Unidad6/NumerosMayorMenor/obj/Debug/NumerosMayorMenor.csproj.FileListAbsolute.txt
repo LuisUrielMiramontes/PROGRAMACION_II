@@ -1,0 +1,12 @@
+C:\Users\icebr\documents\visual studio 2015\Projects\Unidad5\NumerosMayorMenor\bin\Debug\NumerosMayorMenor.exe.config
+C:\Users\icebr\documents\visual studio 2015\Projects\Unidad5\NumerosMayorMenor\bin\Debug\NumerosMayorMenor.exe
+C:\Users\icebr\documents\visual studio 2015\Projects\Unidad5\NumerosMayorMenor\bin\Debug\NumerosMayorMenor.pdb
+C:\Users\icebr\documents\visual studio 2015\Projects\Unidad5\NumerosMayorMenor\obj\Debug\NumerosMayorMenor.csprojResolveAssemblyReference.cache
+C:\Users\icebr\documents\visual studio 2015\Projects\Unidad5\NumerosMayorMenor\obj\Debug\NumerosMayorMenor.exe
+C:\Users\icebr\documents\visual studio 2015\Projects\Unidad5\NumerosMayorMenor\obj\Debug\NumerosMayorMenor.pdb
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad6\NumerosMayorMenor\bin\Debug\NumerosMayorMenor.exe.config
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad6\NumerosMayorMenor\obj\Debug\NumerosMayorMenor.exe
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad6\NumerosMayorMenor\obj\Debug\NumerosMayorMenor.pdb
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad6\NumerosMayorMenor\bin\Debug\NumerosMayorMenor.exe
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad6\NumerosMayorMenor\bin\Debug\NumerosMayorMenor.pdb
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad6\NumerosMayorMenor\obj\Debug\NumerosMayorMenor.csprojResolveAssemblyReference.cache

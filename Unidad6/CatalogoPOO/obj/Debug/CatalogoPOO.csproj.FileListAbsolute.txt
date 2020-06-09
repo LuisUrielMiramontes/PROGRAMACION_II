@@ -1,0 +1,9 @@
+C:\Users\icebr\documents\visual studio 2015\Projects\Unidad6\CatalogoPOO\bin\Debug\CatalogoPOO.exe.config
+C:\Users\icebr\documents\visual studio 2015\Projects\Unidad6\CatalogoPOO\bin\Debug\CatalogoPOO.exe
+C:\Users\icebr\documents\visual studio 2015\Projects\Unidad6\CatalogoPOO\bin\Debug\CatalogoPOO.pdb
+C:\Users\icebr\documents\visual studio 2015\Projects\Unidad6\CatalogoPOO\obj\Debug\CatalogoPOO.csprojResolveAssemblyReference.cache
+C:\Users\icebr\documents\visual studio 2015\Projects\Unidad6\CatalogoPOO\obj\Debug\CatalogoPOO.Form1.resources
+C:\Users\icebr\documents\visual studio 2015\Projects\Unidad6\CatalogoPOO\obj\Debug\CatalogoPOO.Properties.Resources.resources
+C:\Users\icebr\documents\visual studio 2015\Projects\Unidad6\CatalogoPOO\obj\Debug\CatalogoPOO.csproj.GenerateResource.Cache
+C:\Users\icebr\documents\visual studio 2015\Projects\Unidad6\CatalogoPOO\obj\Debug\CatalogoPOO.exe
+C:\Users\icebr\documents\visual studio 2015\Projects\Unidad6\CatalogoPOO\obj\Debug\CatalogoPOO.pdb

@@ -1,0 +1,1 @@
+El mayor es: 9 El menor es: 1
