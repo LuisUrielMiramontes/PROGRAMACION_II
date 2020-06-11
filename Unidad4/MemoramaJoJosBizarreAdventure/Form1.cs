@@ -52,7 +52,7 @@ namespace MemoramaJoJosBizarreAdventure
         private void btnCerrar_Click(object sender, EventArgs e)
         {
             //Esto solamente cierra el menú del juego.
-            Application.Exit();
+            this.Hide();
         }
     }
 }

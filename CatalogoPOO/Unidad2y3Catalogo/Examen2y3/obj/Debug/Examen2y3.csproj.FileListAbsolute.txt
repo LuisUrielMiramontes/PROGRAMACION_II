@@ -1,0 +1,18 @@
+c:\users\icebr\documents\visual studio 2015\Projects\DiasDeVacaciones\Examen2y3\bin\Debug\Examen2y3.exe.config
+c:\users\icebr\documents\visual studio 2015\Projects\DiasDeVacaciones\Examen2y3\bin\Debug\Examen2y3.exe
+c:\users\icebr\documents\visual studio 2015\Projects\DiasDeVacaciones\Examen2y3\bin\Debug\Examen2y3.pdb
+c:\users\icebr\documents\visual studio 2015\Projects\DiasDeVacaciones\Examen2y3\obj\Debug\Examen2y3.csprojResolveAssemblyReference.cache
+c:\users\icebr\documents\visual studio 2015\Projects\DiasDeVacaciones\Examen2y3\obj\Debug\Examen2y3.Form1.resources
+c:\users\icebr\documents\visual studio 2015\Projects\DiasDeVacaciones\Examen2y3\obj\Debug\Examen2y3.Properties.Resources.resources
+c:\users\icebr\documents\visual studio 2015\Projects\DiasDeVacaciones\Examen2y3\obj\Debug\Examen2y3.csproj.GenerateResource.Cache
+c:\users\icebr\documents\visual studio 2015\Projects\DiasDeVacaciones\Examen2y3\obj\Debug\Examen2y3.exe
+c:\users\icebr\documents\visual studio 2015\Projects\DiasDeVacaciones\Examen2y3\obj\Debug\Examen2y3.pdb
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\Examen2y3\bin\Debug\Examen2y3.exe.config
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\Examen2y3\bin\Debug\Examen2y3.exe
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\Examen2y3\bin\Debug\Examen2y3.pdb
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\Examen2y3\obj\Debug\Examen2y3.csprojResolveAssemblyReference.cache
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\Examen2y3\obj\Debug\Examen2y3.Form1.resources
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\Examen2y3\obj\Debug\Examen2y3.Properties.Resources.resources
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\Examen2y3\obj\Debug\Examen2y3.csproj.GenerateResource.Cache
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\Examen2y3\obj\Debug\Examen2y3.exe
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\Examen2y3\obj\Debug\Examen2y3.pdb

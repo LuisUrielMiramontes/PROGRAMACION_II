@@ -1,0 +1,12 @@
+c:\users\icebr\documents\visual studio 2015\Projects\Examen2y3\DiasDeVacaciones\bin\Debug\DiasDeVacaciones.exe.config
+c:\users\icebr\documents\visual studio 2015\Projects\Examen2y3\DiasDeVacaciones\bin\Debug\DiasDeVacaciones.exe
+c:\users\icebr\documents\visual studio 2015\Projects\Examen2y3\DiasDeVacaciones\bin\Debug\DiasDeVacaciones.pdb
+c:\users\icebr\documents\visual studio 2015\Projects\Examen2y3\DiasDeVacaciones\obj\Debug\DiasDeVacaciones.csprojResolveAssemblyReference.cache
+c:\users\icebr\documents\visual studio 2015\Projects\Examen2y3\DiasDeVacaciones\obj\Debug\DiasDeVacaciones.Form1.resources
+c:\users\icebr\documents\visual studio 2015\Projects\Examen2y3\DiasDeVacaciones\obj\Debug\DiasDeVacaciones.Properties.Resources.resources
+c:\users\icebr\documents\visual studio 2015\Projects\Examen2y3\DiasDeVacaciones\obj\Debug\DiasDeVacaciones.csproj.GenerateResource.Cache
+c:\users\icebr\documents\visual studio 2015\Projects\Examen2y3\DiasDeVacaciones\obj\Debug\DiasDeVacaciones.exe
+c:\users\icebr\documents\visual studio 2015\Projects\Examen2y3\DiasDeVacaciones\obj\Debug\DiasDeVacaciones.pdb
+C:\Users\icebr\Documents\POO\UnidadNumero2\Examen2y3\DiasDeVacaciones\bin\Debug\DiasDeVacaciones.exe.config
+C:\Users\icebr\Documents\POO\UnidadNumero2\Examen2y3\DiasDeVacaciones\obj\Debug\DiasDeVacaciones.exe
+C:\Users\icebr\Documents\POO\UnidadNumero2\Examen2y3\DiasDeVacaciones\obj\Debug\DiasDeVacaciones.pdb

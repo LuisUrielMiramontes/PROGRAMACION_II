@@ -1,0 +1,12 @@
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad5\Ejercicio1Paises\bin\Debug\Ejercicio1Paises.exe.config
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad5\Ejercicio1Paises\bin\Debug\Ejercicio1Paises.exe
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad5\Ejercicio1Paises\bin\Debug\Ejercicio1Paises.pdb
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad5\Ejercicio1Paises\obj\Debug\Ejercicio1Paises.csprojResolveAssemblyReference.cache
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad5\Ejercicio1Paises\obj\Debug\Ejercicio1Paises.exe
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad5\Ejercicio1Paises\obj\Debug\Ejercicio1Paises.pdb
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad6\Ejercicio1Paises\bin\Debug\Ejercicio1Paises.exe.config
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad6\Ejercicio1Paises\obj\Debug\Ejercicio1Paises.exe
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad6\Ejercicio1Paises\obj\Debug\Ejercicio1Paises.pdb
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad6\Ejercicio1Paises\bin\Debug\Ejercicio1Paises.exe
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad6\Ejercicio1Paises\bin\Debug\Ejercicio1Paises.pdb
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad6\Ejercicio1Paises\obj\Debug\Ejercicio1Paises.csprojResolveAssemblyReference.cache

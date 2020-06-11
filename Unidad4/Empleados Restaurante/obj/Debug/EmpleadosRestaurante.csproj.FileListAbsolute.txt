@@ -7,3 +7,12 @@ c:\Users\icebr\documents\visual studio 2015\Projects\Unidad4\Empleados Restauran
 c:\Users\icebr\documents\visual studio 2015\Projects\Unidad4\Empleados Restaurante\obj\Debug\EmpleadosRestaurante.csproj.GenerateResource.Cache
 c:\Users\icebr\documents\visual studio 2015\Projects\Unidad4\Empleados Restaurante\obj\Debug\Empleados Restaurante.exe
 c:\Users\icebr\documents\visual studio 2015\Projects\Unidad4\Empleados Restaurante\obj\Debug\Empleados Restaurante.pdb
+C:\Users\icebr\Documents\POO\Unidad4\Empleados Restaurante\bin\Debug\Empleados Restaurante.exe.config
+C:\Users\icebr\Documents\POO\Unidad4\Empleados Restaurante\bin\Debug\Empleados Restaurante.exe
+C:\Users\icebr\Documents\POO\Unidad4\Empleados Restaurante\bin\Debug\Empleados Restaurante.pdb
+C:\Users\icebr\Documents\POO\Unidad4\Empleados Restaurante\obj\Debug\EmpleadosRestaurante.csprojResolveAssemblyReference.cache
+C:\Users\icebr\Documents\POO\Unidad4\Empleados Restaurante\obj\Debug\Empleados_Restaurante.Form1.resources
+C:\Users\icebr\Documents\POO\Unidad4\Empleados Restaurante\obj\Debug\Empleados_Restaurante.Properties.Resources.resources
+C:\Users\icebr\Documents\POO\Unidad4\Empleados Restaurante\obj\Debug\EmpleadosRestaurante.csproj.GenerateResource.Cache
+C:\Users\icebr\Documents\POO\Unidad4\Empleados Restaurante\obj\Debug\Empleados Restaurante.exe
+C:\Users\icebr\Documents\POO\Unidad4\Empleados Restaurante\obj\Debug\Empleados Restaurante.pdb

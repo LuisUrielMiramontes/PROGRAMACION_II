@@ -41,7 +41,7 @@ namespace Figuras
 
         private void btnSalir_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            this.Hide();
         }
 
         private void btnResultadosCirculo_Click(object sender, EventArgs e)

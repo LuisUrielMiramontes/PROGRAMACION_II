@@ -1,0 +1,14 @@
+c:\users\icebr\documents\visual studio 2015\Projects\Unidad6\ClasesProg101\bin\Debug\ClasesProg101.exe.config
+c:\users\icebr\documents\visual studio 2015\Projects\Unidad6\ClasesProg101\bin\Debug\ClasesProg101.exe
+c:\users\icebr\documents\visual studio 2015\Projects\Unidad6\ClasesProg101\bin\Debug\ClasesProg101.pdb
+c:\users\icebr\documents\visual studio 2015\Projects\Unidad6\ClasesProg101\obj\Debug\ClasesProg101.csprojResolveAssemblyReference.cache
+c:\users\icebr\documents\visual studio 2015\Projects\Unidad6\ClasesProg101\obj\Debug\ClasesProg101.exe
+c:\users\icebr\documents\visual studio 2015\Projects\Unidad6\ClasesProg101\obj\Debug\ClasesProg101.pdb
+c:\users\icebr\documents\visual studio 2015\Projects\Unidad6\ClasesProg101\bin\Debug\archivo.txt
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad5y6Catalogo\ClasesProg101\bin\Debug\archivo.txt
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad5y6Catalogo\ClasesProg101\bin\Debug\ClasesProg101.exe.config
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad5y6Catalogo\ClasesProg101\bin\Debug\ClasesProg101.exe
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad5y6Catalogo\ClasesProg101\bin\Debug\ClasesProg101.pdb
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad5y6Catalogo\ClasesProg101\obj\Debug\ClasesProg101.csprojResolveAssemblyReference.cache
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad5y6Catalogo\ClasesProg101\obj\Debug\ClasesProg101.exe
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad5y6Catalogo\ClasesProg101\obj\Debug\ClasesProg101.pdb

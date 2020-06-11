@@ -1,0 +1,21 @@
+c:\users\icebr\documents\visual studio 2015\Projects\Unidad1POO\Embotelladora\bin\Debug\Embotelladora.exe.config
+c:\users\icebr\documents\visual studio 2015\Projects\Unidad1POO\Embotelladora\bin\Debug\Embotelladora.exe
+c:\users\icebr\documents\visual studio 2015\Projects\Unidad1POO\Embotelladora\bin\Debug\Embotelladora.pdb
+c:\users\icebr\documents\visual studio 2015\Projects\Unidad1POO\Embotelladora\obj\Debug\Embotelladora.csprojResolveAssemblyReference.cache
+c:\users\icebr\documents\visual studio 2015\Projects\Unidad1POO\Embotelladora\obj\Debug\Embotelladora.Properties.Resources.resources
+c:\users\icebr\documents\visual studio 2015\Projects\Unidad1POO\Embotelladora\obj\Debug\Embotelladora.csproj.GenerateResource.Cache
+c:\users\icebr\documents\visual studio 2015\Projects\Unidad1POO\Embotelladora\obj\Debug\Embotelladora.exe
+c:\users\icebr\documents\visual studio 2015\Projects\Unidad1POO\Embotelladora\obj\Debug\Embotelladora.pdb
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad1POO\Embotelladora\obj\Debug\Embotelladora.frm.resources
+C:\Users\icebr\Documents\POO\UnidadNumero2\Embotelladora\Embotelladora\bin\Debug\Embotelladora.exe.config
+C:\Users\icebr\Documents\POO\UnidadNumero2\Embotelladora\Embotelladora\obj\Debug\Embotelladora.exe
+C:\Users\icebr\Documents\POO\UnidadNumero2\Embotelladora\Embotelladora\obj\Debug\Embotelladora.pdb
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\Embotelladora\Embotelladora\bin\Debug\Embotelladora.exe.config
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\Embotelladora\Embotelladora\bin\Debug\Embotelladora.exe
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\Embotelladora\Embotelladora\bin\Debug\Embotelladora.pdb
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\Embotelladora\Embotelladora\obj\Debug\Embotelladora.csprojResolveAssemblyReference.cache
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\Embotelladora\Embotelladora\obj\Debug\Embotelladora.frm.resources
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\Embotelladora\Embotelladora\obj\Debug\Embotelladora.Properties.Resources.resources
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\Embotelladora\Embotelladora\obj\Debug\Embotelladora.csproj.GenerateResource.Cache
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\Embotelladora\Embotelladora\obj\Debug\Embotelladora.exe
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\Embotelladora\Embotelladora\obj\Debug\Embotelladora.pdb

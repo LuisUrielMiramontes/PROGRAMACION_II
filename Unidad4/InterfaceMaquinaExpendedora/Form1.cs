@@ -25,7 +25,7 @@ namespace InterfaceMaquinaExpendedora
 
         private void btnSalir_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            this.Hide();
         }
 
         private void btnCocaCola_Click(object sender, EventArgs e)

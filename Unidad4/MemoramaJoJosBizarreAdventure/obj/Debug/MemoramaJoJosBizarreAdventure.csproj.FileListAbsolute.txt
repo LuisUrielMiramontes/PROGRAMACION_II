@@ -9,3 +9,14 @@ C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad4\MemoramaJoJosBizarr
 C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad4\MemoramaJoJosBizarreAdventure\obj\Debug\MemoramaJoJosBizarreAdventure.pdb
 C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad4\MemoramaJoJosBizarreAdventure\obj\Debug\MemoramaJoJosBizarreAdventure.Reglas.resources
 C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad4\MemoramaJoJosBizarreAdventure\obj\Debug\MemoramaJoJosBizarreAdventure.JuegoMemorama.resources
+C:\Users\icebr\Documents\POO\Unidad4\MemoramaJoJosBizarreAdventure\bin\Debug\MemoramaJoJosBizarreAdventure.exe.config
+C:\Users\icebr\Documents\POO\Unidad4\MemoramaJoJosBizarreAdventure\bin\Debug\MemoramaJoJosBizarreAdventure.exe
+C:\Users\icebr\Documents\POO\Unidad4\MemoramaJoJosBizarreAdventure\bin\Debug\MemoramaJoJosBizarreAdventure.pdb
+C:\Users\icebr\Documents\POO\Unidad4\MemoramaJoJosBizarreAdventure\obj\Debug\MemoramaJoJosBizarreAdventure.csprojResolveAssemblyReference.cache
+C:\Users\icebr\Documents\POO\Unidad4\MemoramaJoJosBizarreAdventure\obj\Debug\MemoramaJoJosBizarreAdventure.Menu.resources
+C:\Users\icebr\Documents\POO\Unidad4\MemoramaJoJosBizarreAdventure\obj\Debug\MemoramaJoJosBizarreAdventure.JuegoMemorama.resources
+C:\Users\icebr\Documents\POO\Unidad4\MemoramaJoJosBizarreAdventure\obj\Debug\MemoramaJoJosBizarreAdventure.Properties.Resources.resources
+C:\Users\icebr\Documents\POO\Unidad4\MemoramaJoJosBizarreAdventure\obj\Debug\MemoramaJoJosBizarreAdventure.Reglas.resources
+C:\Users\icebr\Documents\POO\Unidad4\MemoramaJoJosBizarreAdventure\obj\Debug\MemoramaJoJosBizarreAdventure.csproj.GenerateResource.Cache
+C:\Users\icebr\Documents\POO\Unidad4\MemoramaJoJosBizarreAdventure\obj\Debug\MemoramaJoJosBizarreAdventure.exe
+C:\Users\icebr\Documents\POO\Unidad4\MemoramaJoJosBizarreAdventure\obj\Debug\MemoramaJoJosBizarreAdventure.pdb

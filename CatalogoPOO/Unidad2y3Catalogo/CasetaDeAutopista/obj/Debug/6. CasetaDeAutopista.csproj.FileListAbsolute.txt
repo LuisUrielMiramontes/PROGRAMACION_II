@@ -1,0 +1,8 @@
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\CasetaDeAutopista\bin\Debug\CasetaDeAutopista.exe.config
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\CasetaDeAutopista\bin\Debug\CasetaDeAutopista.exe
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\CasetaDeAutopista\bin\Debug\CasetaDeAutopista.pdb
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\CasetaDeAutopista\obj\Debug\CasetaDeAutopista.Form1.resources
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\CasetaDeAutopista\obj\Debug\CasetaDeAutopista.Properties.Resources.resources
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\CasetaDeAutopista\obj\Debug\6. CasetaDeAutopista.csproj.GenerateResource.Cache
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\CasetaDeAutopista\obj\Debug\CasetaDeAutopista.exe
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\CasetaDeAutopista\obj\Debug\CasetaDeAutopista.pdb

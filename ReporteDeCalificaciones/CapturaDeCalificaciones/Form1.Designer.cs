@@ -138,8 +138,6 @@
         private System.Windows.Forms.Label lblPromedio;
     }
 }
-
-=======
 ﻿namespace CapturaDeCalificaciones
 {
     partial class Form1

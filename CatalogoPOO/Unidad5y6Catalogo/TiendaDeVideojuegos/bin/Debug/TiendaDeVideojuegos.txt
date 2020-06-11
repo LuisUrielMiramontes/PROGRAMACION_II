@@ -1,0 +1,15 @@
+Tienda: Coppel
+Producto #1
+Nombre del producto: Nintendo Switch
+Precio: 9,000 
+
+Tienda: Coppel
+Producto #2
+Nombre del producto: Xbox One
+Precio: 10,000 
+
+Tienda: Coppel
+Producto #3
+Nombre del producto: PlayStation4
+Precio: 7,000 
+

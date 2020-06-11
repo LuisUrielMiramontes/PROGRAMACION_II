@@ -7,3 +7,12 @@ c:\users\icebr\documents\visual studio 2015\Projects\Unidad4\Vehiculos\obj\Debug
 c:\users\icebr\documents\visual studio 2015\Projects\Unidad4\Vehiculos\obj\Debug\Vehiculos.csproj.GenerateResource.Cache
 c:\users\icebr\documents\visual studio 2015\Projects\Unidad4\Vehiculos\obj\Debug\Vehiculos.exe
 c:\users\icebr\documents\visual studio 2015\Projects\Unidad4\Vehiculos\obj\Debug\Vehiculos.pdb
+C:\Users\icebr\Documents\POO\Unidad4\Vehiculos\bin\Debug\Vehiculos.exe.config
+C:\Users\icebr\Documents\POO\Unidad4\Vehiculos\bin\Debug\Vehiculos.exe
+C:\Users\icebr\Documents\POO\Unidad4\Vehiculos\bin\Debug\Vehiculos.pdb
+C:\Users\icebr\Documents\POO\Unidad4\Vehiculos\obj\Debug\Vehiculos.csprojResolveAssemblyReference.cache
+C:\Users\icebr\Documents\POO\Unidad4\Vehiculos\obj\Debug\Vehiculos.Form1.resources
+C:\Users\icebr\Documents\POO\Unidad4\Vehiculos\obj\Debug\Vehiculos.Properties.Resources.resources
+C:\Users\icebr\Documents\POO\Unidad4\Vehiculos\obj\Debug\Vehiculos.csproj.GenerateResource.Cache
+C:\Users\icebr\Documents\POO\Unidad4\Vehiculos\obj\Debug\Vehiculos.exe
+C:\Users\icebr\Documents\POO\Unidad4\Vehiculos\obj\Debug\Vehiculos.pdb

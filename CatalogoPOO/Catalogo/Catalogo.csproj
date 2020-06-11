@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E7D3C08C-D152-431C-A366-07FD70F663AB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Catalogo</RootNamespace>
+    <AssemblyName>Catalogo</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.QualityTools.Testing.Fakes, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CatalogoUnidad1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CatalogoUnidad1.Designer.cs">
+      <DependentUpon>CatalogoUnidad1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CatalogoUnidad2y3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CatalogoUnidad2y3.Designer.cs">
+      <DependentUpon>CatalogoUnidad2y3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CatalogoUnidad4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CatalogoUnidad4.Designer.cs">
+      <DependentUpon>CatalogoUnidad4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CatalogoUnidad5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CatalogoUnidad5.Designer.cs">
+      <DependentUpon>CatalogoUnidad5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CatalogoUnidad6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CatalogoUnidad6.Designer.cs">
+      <DependentUpon>CatalogoUnidad6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CatalogoUnidad1.resx">
+      <DependentUpon>CatalogoUnidad1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CatalogoUnidad2y3.resx">
+      <DependentUpon>CatalogoUnidad2y3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CatalogoUnidad4.resx">
+      <DependentUpon>CatalogoUnidad4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CatalogoUnidad5.resx">
+      <DependentUpon>CatalogoUnidad5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CatalogoUnidad6.resx">
+      <DependentUpon>CatalogoUnidad6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Unidad4\Empleados Restaurante\EmpleadosRestaurante.csproj">
+      <Project>{96183998-f9c8-4dc5-b897-048be9610c7b}</Project>
+      <Name>EmpleadosRestaurante</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Unidad4\Figuras\FigurasGeometricas.csproj">
+      <Project>{bcf5dda8-af33-4027-99cc-fb775be4a899}</Project>
+      <Name>FigurasGeometricas</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Unidad4\InterfaceMaquinaExpendedora\InterfaceMaquinaExpendedora.csproj">
+      <Project>{7c8cba64-27a9-4015-9602-cea14a9b1a9a}</Project>
+      <Name>InterfaceMaquinaExpendedora</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Unidad4\MemoramaJoJosBizarreAdventure\MemoramaJoJosBizarreAdventure.csproj">
+      <Project>{4cedd81e-8f44-4fd0-8ecc-d3f1bb16c2a8}</Project>
+      <Name>MemoramaJoJosBizarreAdventure</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Unidad4\Operaciones\Operaciones.csproj">
+      <Project>{40020f70-1603-4716-953f-dfd6d10d46a7}</Project>
+      <Name>Operaciones</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Unidad4\Vehiculos\Vehiculos.csproj">
+      <Project>{52f7333f-4980-4f38-88df-4e071e24c6fb}</Project>
+      <Name>Vehiculos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Unidad1Catalogo\MiPrimerProyectoConsola\MiPrimerProyectoConsola.csproj">
+      <Project>{640b1ae2-add1-4894-9f9d-ea362656feb5}</Project>
+      <Name>MiPrimerProyectoConsola</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Unidad1Catalogo\MiProyectoWindowsForms\MiProyectoWindowsForms.csproj">
+      <Project>{86ee39ec-9507-4cc7-890a-7b5e81d7c6cd}</Project>
+      <Name>MiProyectoWindowsForms</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Unidad2y3Catalogo\CasetaDeAutopista\6. CasetaDeAutopista.csproj">
+      <Project>{0ba49929-3000-4e0b-a0a4-a33054febdd7}</Project>
+      <Name>6. CasetaDeAutopista</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Unidad2y3Catalogo\Cuadrado\1. Cuadrado.csproj">
+      <Project>{d30b1a7f-42de-4a16-b925-af4fff278c12}</Project>
+      <Name>1. Cuadrado</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Unidad2y3Catalogo\DiasDeVacaciones\3. DiasDeVacaciones.csproj">
+      <Project>{d730ff88-e58d-4755-92e6-c4943e185423}</Project>
+      <Name>3. DiasDeVacaciones</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Unidad2y3Catalogo\Embotelladora\Embotelladora\Embotelladora.csproj">
+      <Project>{d7c9009b-d134-46db-824f-0d718deb5152}</Project>
+      <Name>Embotelladora</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Unidad2y3Catalogo\EntradasDeUnConcierto\EntradasDeUnConcierto.csproj">
+      <Project>{fc1ee82e-7010-48cd-9a32-9187eec271b2}</Project>
+      <Name>EntradasDeUnConcierto</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Unidad2y3Catalogo\Examen2y3\Examen2y3.csproj">
+      <Project>{ce57c065-2ccf-4290-ab1f-bd122841377e}</Project>
+      <Name>Examen2y3</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Unidad2y3Catalogo\MayorDeEdad\4. MayorDeEdad.csproj">
+      <Project>{ac928ce3-e18e-46a5-8ece-916dda9d0c08}</Project>
+      <Name>4. MayorDeEdad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Unidad2y3Catalogo\Recibo\5. Recibo.csproj">
+      <Project>{8e8b3a00-318e-4c55-8929-4f0385f46e87}</Project>
+      <Name>5. Recibo</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Unidad2y3Catalogo\Temperatura\2. Temperatura.csproj">
+      <Project>{8b268894-aec2-4ab6-9cf2-4bcea36ecaac}</Project>
+      <Name>2. Temperatura</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Unidad5y6Catalogo\Bidimensional1\Bidimensional1.csproj">
+      <Project>{7d769e20-d95c-4b5a-a88f-398f99d11c99}</Project>
+      <Name>Bidimensional1</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Unidad5y6Catalogo\Bidimensional2\Bidimensional2.csproj">
+      <Project>{8c4af35d-25ef-4392-94cf-c76433c4feb2}</Project>
+      <Name>Bidimensional2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Unidad5y6Catalogo\BidimensionalEjemplo1\BidimensionalEjemplo1.csproj">
+      <Project>{7c8cbdf4-867c-4596-96f8-aa30640b6eef}</Project>
+      <Name>BidimensionalEjemplo1</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Unidad5y6Catalogo\ClasesProg101\ClasesProg101.csproj">
+      <Project>{99df1203-e155-4b2d-adc5-a6d103f19b45}</Project>
+      <Name>ClasesProg101</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Unidad5y6Catalogo\Ejemplo1PropuestoArreglos\Ejemplo1PropuestoArreglos.csproj">
+      <Project>{55e6d632-5541-4fa2-84ce-23eff4415dad}</Project>
+      <Name>Ejemplo1PropuestoArreglos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Unidad5y6Catalogo\Ejercicio1Paises\Ejercicio1Paises.csproj">
+      <Project>{cbfffa1c-630a-40e5-8e5a-fcc017b4cdb4}</Project>
+      <Name>Ejercicio1Paises</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Unidad5y6Catalogo\Ejercicio2Paises\Ejercicio2Paises.csproj">
+      <Project>{f95b575b-36ff-4716-8f2a-fa6da2e0d7e3}</Project>
+      <Name>Ejercicio2Paises</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Unidad5y6Catalogo\EjercicioArrayListDeUnaClase\EjercicioArrayListDeUnaClase.csproj">
+      <Project>{eb8dbc5a-53df-43bb-b04b-e4a671f16f50}</Project>
+      <Name>EjercicioArrayListDeUnaClase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Unidad5y6Catalogo\EscuelaDatos1\EscuelaDatos1.csproj">
+      <Project>{f43bd8ce-c108-45f5-9833-da10ea850247}</Project>
+      <Name>EscuelaDatos1</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Unidad5y6Catalogo\EscuelaDatos2\EscuelaDatos2.csproj">
+      <Project>{6e8e75fd-557c-4db6-bdbf-753dd077acb8}</Project>
+      <Name>EscuelaDatos2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Unidad5y6Catalogo\MatrizSumaFCD\MatrizSumaFCD.csproj">
+      <Project>{d4386245-b422-4f39-a3d0-2d796b927b5c}</Project>
+      <Name>MatrizSumaFCD</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Unidad5y6Catalogo\NumerosMayorMenor\NumerosMayorMenor.csproj">
+      <Project>{7f281c30-1421-42d5-93ce-e41c70bc46ea}</Project>
+      <Name>NumerosMayorMenor</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Unidad5y6Catalogo\TiendaDeVideojuegos\TiendaDeVideojuegos.csproj">
+      <Project>{ac069a2a-7372-4627-b12f-e099f8211743}</Project>
+      <Name>TiendaDeVideojuegos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Unidad5y6Catalogo\Torneo\Torneo.csproj">
+      <Project>{672f6d9a-ca95-4609-a992-91c16bd64568}</Project>
+      <Name>Torneo</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

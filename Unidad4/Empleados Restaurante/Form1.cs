@@ -24,7 +24,7 @@ namespace Empleados_Restaurante
 
         private void btnSalir_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            this.Hide();
         }
 
         private void btnSalarioMesero_Click(object sender, EventArgs e)

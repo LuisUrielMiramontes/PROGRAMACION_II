@@ -1,0 +1,18 @@
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\AsistenteConcierto\Cuadrado\bin\Debug\Cuadrado.exe.config
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\AsistenteConcierto\Cuadrado\obj\Debug\Cuadrado.exe
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\AsistenteConcierto\Cuadrado\obj\Debug\Cuadrado.pdb
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\UnidadNumero2\Cuadrado\bin\Debug\Cuadrado.exe.config
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\UnidadNumero2\Cuadrado\obj\Debug\Cuadrado.exe
+C:\Users\icebr\Documents\Visual Studio 2015\Projects\UnidadNumero2\Cuadrado\obj\Debug\Cuadrado.pdb
+C:\Users\icebr\Documents\POO\UnidadNumero2\Cuadrado\bin\Debug\Cuadrado.exe.config
+C:\Users\icebr\Documents\POO\UnidadNumero2\Cuadrado\obj\Debug\Cuadrado.exe
+C:\Users\icebr\Documents\POO\UnidadNumero2\Cuadrado\obj\Debug\Cuadrado.pdb
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\Cuadrado\bin\Debug\Cuadrado.exe.config
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\Cuadrado\bin\Debug\Cuadrado.exe
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\Cuadrado\bin\Debug\Cuadrado.pdb
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\Cuadrado\obj\Debug\1. Cuadrado.csprojResolveAssemblyReference.cache
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\Cuadrado\obj\Debug\Cuadrado.Form1.resources
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\Cuadrado\obj\Debug\Cuadrado.Properties.Resources.resources
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\Cuadrado\obj\Debug\1. Cuadrado.csproj.GenerateResource.Cache
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\Cuadrado\obj\Debug\Cuadrado.exe
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\Cuadrado\obj\Debug\Cuadrado.pdb

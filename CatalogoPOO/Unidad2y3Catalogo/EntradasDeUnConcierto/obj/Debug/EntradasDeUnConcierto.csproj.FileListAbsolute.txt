@@ -1,0 +1,27 @@
+c:\users\icebr\documents\visual studio 2015\Projects\AsistenteConcierto\EntradasDeUnConcierto\bin\Debug\EntradasDeUnConcierto.exe.config
+c:\users\icebr\documents\visual studio 2015\Projects\AsistenteConcierto\EntradasDeUnConcierto\bin\Debug\EntradasDeUnConcierto.exe
+c:\users\icebr\documents\visual studio 2015\Projects\AsistenteConcierto\EntradasDeUnConcierto\bin\Debug\EntradasDeUnConcierto.pdb
+c:\users\icebr\documents\visual studio 2015\Projects\AsistenteConcierto\EntradasDeUnConcierto\obj\Debug\EntradasDeUnConcierto.Form1.resources
+c:\users\icebr\documents\visual studio 2015\Projects\AsistenteConcierto\EntradasDeUnConcierto\obj\Debug\EntradasDeUnConcierto.Properties.Resources.resources
+c:\users\icebr\documents\visual studio 2015\Projects\AsistenteConcierto\EntradasDeUnConcierto\obj\Debug\EntradasDeUnConcierto.csproj.GenerateResource.Cache
+c:\users\icebr\documents\visual studio 2015\Projects\AsistenteConcierto\EntradasDeUnConcierto\obj\Debug\EntradasDeUnConcierto.exe
+c:\users\icebr\documents\visual studio 2015\Projects\AsistenteConcierto\EntradasDeUnConcierto\obj\Debug\EntradasDeUnConcierto.pdb
+c:\users\icebr\documents\visual studio 2015\Projects\AsistenteConcierto\EntradasDeUnConcierto\obj\Debug\EntradasDeUnConcierto.csprojResolveAssemblyReference.cache
+C:\Users\icebr\Documents\POO\UnidadNumero2\EntradasDeUnConcierto\bin\Debug\EntradasDeUnConcierto.exe.config
+C:\Users\icebr\Documents\POO\UnidadNumero2\EntradasDeUnConcierto\obj\Debug\EntradasDeUnConcierto.exe
+C:\Users\icebr\Documents\POO\UnidadNumero2\EntradasDeUnConcierto\obj\Debug\EntradasDeUnConcierto.pdb
+C:\Users\icebr\Documents\POO\UnidadNumero2\EntradasDeUnConcierto\bin\Debug\EntradasDeUnConcierto.exe
+C:\Users\icebr\Documents\POO\UnidadNumero2\EntradasDeUnConcierto\bin\Debug\EntradasDeUnConcierto.pdb
+C:\Users\icebr\Documents\POO\UnidadNumero2\EntradasDeUnConcierto\obj\Debug\EntradasDeUnConcierto.csprojResolveAssemblyReference.cache
+C:\Users\icebr\Documents\POO\UnidadNumero2\EntradasDeUnConcierto\obj\Debug\EntradasDeUnConcierto.Form1.resources
+C:\Users\icebr\Documents\POO\UnidadNumero2\EntradasDeUnConcierto\obj\Debug\EntradasDeUnConcierto.Properties.Resources.resources
+C:\Users\icebr\Documents\POO\UnidadNumero2\EntradasDeUnConcierto\obj\Debug\EntradasDeUnConcierto.csproj.GenerateResource.Cache
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\EntradasDeUnConcierto\bin\Debug\EntradasDeUnConcierto.exe.config
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\EntradasDeUnConcierto\bin\Debug\EntradasDeUnConcierto.exe
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\EntradasDeUnConcierto\bin\Debug\EntradasDeUnConcierto.pdb
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\EntradasDeUnConcierto\obj\Debug\EntradasDeUnConcierto.csprojResolveAssemblyReference.cache
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\EntradasDeUnConcierto\obj\Debug\EntradasDeUnConcierto.Form1.resources
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\EntradasDeUnConcierto\obj\Debug\EntradasDeUnConcierto.Properties.Resources.resources
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\EntradasDeUnConcierto\obj\Debug\EntradasDeUnConcierto.csproj.GenerateResource.Cache
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\EntradasDeUnConcierto\obj\Debug\EntradasDeUnConcierto.exe
+C:\Users\icebr\Documents\POO\CatalogoPOO\Unidad2y3Catalogo\EntradasDeUnConcierto\obj\Debug\EntradasDeUnConcierto.pdb

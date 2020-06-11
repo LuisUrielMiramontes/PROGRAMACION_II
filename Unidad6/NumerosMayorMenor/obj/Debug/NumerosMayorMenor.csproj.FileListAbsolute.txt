@@ -10,3 +10,6 @@ C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad6\NumerosMayorMenor\o
 C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad6\NumerosMayorMenor\bin\Debug\NumerosMayorMenor.exe
 C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad6\NumerosMayorMenor\bin\Debug\NumerosMayorMenor.pdb
 C:\Users\icebr\Documents\Visual Studio 2015\Projects\Unidad6\NumerosMayorMenor\obj\Debug\NumerosMayorMenor.csprojResolveAssemblyReference.cache
+C:\Users\icebr\Documents\POO\Unidad6\NumerosMayorMenor\bin\Debug\NumerosMayorMenor.exe.config
+C:\Users\icebr\Documents\POO\Unidad6\NumerosMayorMenor\obj\Debug\NumerosMayorMenor.exe
+C:\Users\icebr\Documents\POO\Unidad6\NumerosMayorMenor\obj\Debug\NumerosMayorMenor.pdb

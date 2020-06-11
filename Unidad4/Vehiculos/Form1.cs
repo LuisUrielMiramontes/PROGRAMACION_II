@@ -20,7 +20,7 @@ namespace Vehiculos
 
         private void btnSalir_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            this.Hide();
         }
 
         private void btnArrancar_Click(object sender, EventArgs e)
